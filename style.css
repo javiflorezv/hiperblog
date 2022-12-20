@@ -1,4 +1,6 @@
 h1{
+    max-width: max-content;
+    line-break: auto;
     writing-mode: horizontal-tb;
     size: 0ch ;
     color: blue;
