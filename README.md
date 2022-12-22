@@ -1,2 +1,0 @@
-# hiperblog
-mi primer blog
