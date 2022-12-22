@@ -2,16 +2,16 @@ body
 {
     color: black;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     margin: 0%;
     padding: 0%;
 }
 #cabecera
 {
-    background-color: blue;
+    background-color: gray;
     box-shadow: 0px 2px 50 px 0 px rgba(0,0,0,0.75) green, blue, alpha;
-    color: aliceblue;
+    color: rgb(40, 145, 238);
     font-weight: bold;
     margin: 0px;
     padding: 0.5em;
