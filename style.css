@@ -1,7 +1,32 @@
-h1{
-    max-width: max-content;
-    line-break: auto;
-    writing-mode: horizontal-tb;
-    size: 0ch ;
-    color: blue;
+body
+{
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    margin: 0%;
+    padding: 0%;
+}
+#cabecera
+{
+    background-color: blue;
+    box-shadow: 0px 2px 50 px 0 px rgba(0,0,0,0.75) green, blue, alpha;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0.5em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+
+    text-align: left;
+    border: 1px solid;
+    margin: auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
